@@ -150,3 +150,105 @@ header {
 .positive__section {
  margin-bottom: 300px;
 }
+
+.project__section h2 {
+ font-size: 40px;
+}
+
+.project__card img{
+  width: 500px;
+  height: auto;
+}
+
+.project__content {  
+ color: black;
+ width: 600px;
+ border-radius: 5px;
+ margin-left: 10px;
+}
+
+.project__card {
+ width: 600px;
+ text-align: center;
+ padding: 20px;
+}
+
+.project__card h3 {
+ font-size: 30px;
+ padding-top: 10px;
+ color: black;
+}
+
+.project__card p {
+ font-size: 11px;
+ padding: 20px 0;
+}
+
+.project {
+ display: flex;
+ justify-content: center;
+ margin-top: 20px;
+}
+
+.project__section {
+ text-align: center;
+}
+
+.footer {
+ background-color: rgba(21, 20, 20, 1);
+ color: white;
+}
+
+.footer__content {
+ display: flex;
+ justify-content: space-around;
+ padding: 130px 0;
+}
+
+.footer__content h2{
+ color: #f8f8f8;
+ font-size: 45px;
+ font-weight: 700;
+}
+
+.footer__content .footer__leftSide p{
+ padding: 16px 0;
+}
+
+.footer__content .footer__leftSide .social__icons {
+ padding-top: 20px;
+}
+
+.footer__content .footer__leftSide .social__icons img {
+ margin-right: 10px;
+}
+
+.footer__content .footer__rightSide h2{
+ font-size: 25px;
+ font-weight: 600;
+ margin-bottom: 20px;
+}
+
+.footer__content .footer__rightSide button {
+ display: block;
+}
+
+
+
+.footer .footer__rightSide input {
+ background-color: #151414;
+ color: #f3f3f3;
+ padding: 20px 100px 22px 21px;
+ border-radius: 5px;
+}
+
+.footer .footer__rightSide .footer__btn {
+ margin-top: 20px;
+ background-color: #005FAC;
+ color: white;
+ border: none;
+ padding: 20px 37px;
+ font-size: 20px;
+ font-weight: 600;
+ border-radius: 8px;
+}
